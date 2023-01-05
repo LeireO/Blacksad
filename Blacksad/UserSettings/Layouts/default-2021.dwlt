@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 85
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 84
+  controlID: 21
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 85
+  controlID: 22
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,13 +317,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Texturas/SR_Chair
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Texturas/SR_Chair
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\canta\Desktop\to archive\uni stuff\Escenaris 3D\P2
     Blacksad\Unity\Blacksad\Blacksad
@@ -331,9 +331,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 645a0000
-    m_LastClickedID: 23140
-    m_ExpandedIDs: 00000000645a00006c5a0000985a000000ca9a3bffffff7f
+    m_SelectedIDs: a0630000
+    m_LastClickedID: 25504
+    m_ExpandedIDs: 00000000f65f00000460000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000645a0000
+    m_ExpandedIDs: 00000000f65f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,10 +488,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 670}
+      scrollPos: {x: 0, y: 1038}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a67cffffa0bcffffccbcffff80bdffff04bfffff2cbfffff38fbffff
+      m_ExpandedIDs: a4e3feffa8e3feff04d5ffff8cd6ffff0af8ffff38fbffff305a00009e5a0000665b0000ca5b0000f25b0000ba5d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -507,7 +507,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -773,9 +773,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 14.927249, y: 3.577026, z: -12.867516}
+    m_Target: {x: 6.5072327, y: 0.1703918, z: 6.1368933}
     speed: 2
-    m_Value: {x: 14.927249, y: 3.577026, z: -12.867516}
+    m_Value: {x: 6.5072327, y: 0.1703918, z: 6.1368933}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -822,13 +822,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.18141477, y: 0.5543934, z: -0.12533335, w: 0.80261046}
+    m_Target: {x: -0.13637322, y: 0.86284107, z: -0.3685702, w: -0.3184465}
     speed: 2
-    m_Value: {x: 0.18437685, y: 0.5503572, z: -0.12615804, w: 0.8044852}
+    m_Value: {x: -0.13682687, y: 0.8621387, z: -0.36980048, w: -0.31818688}
   m_Size:
-    m_Target: 2.2572155
+    m_Target: 2.7972183
     speed: 2
-    m_Value: 2.2572155
+    m_Value: 2.676764
   m_Ortho:
     m_Target: 0
     speed: 2
