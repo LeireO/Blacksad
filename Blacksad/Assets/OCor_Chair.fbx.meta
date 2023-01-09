@@ -7,18 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: M_Chair1_Metal
-    second: {fileID: 2100000, guid: 79c69c86e5f46854f98bd1a5dc03789b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_Chair1_Wheels
-    second: {fileID: 2100000, guid: 7405c447235e4d94fb8d6c94e59b2179, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_Chair1_Wood
-    second: {fileID: 2100000, guid: 8d01a6ba7ec4f0e479d504fde978b4af, type: 2}
+      name: OCor_Chair_Material
+    second: {fileID: 2100000, guid: 6c7751e9ace3c334c9d113b9895b2656, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
