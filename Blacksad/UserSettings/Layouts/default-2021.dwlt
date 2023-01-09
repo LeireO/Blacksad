@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 16
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 21
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 22
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\oliof\OneDrive\Escritorio\Proyecto final ES3D\Blacksad\Blacksad
+  m_LastProjectPath: C:\Users\oliof\OneDrive\Escritorio\Blacksad\Blacksad
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: b07b0000
-    m_LastClickedID: 31664
-    m_ExpandedIDs: 00000000b07b0000427e000000ca9a3bffffff7f
+    m_SelectedIDs: acd10000
+    m_LastClickedID: 53676
+    m_ExpandedIDs: 00000000acd1000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b07b0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 30bf0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0af7ffff
+      m_ExpandedIDs: 68a4ffff40a6ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 28.584066, y: 39.612732, z: 29.962515}
+    m_Target: {x: 19.777311, y: -0.6139412, z: -2.167821}
     speed: 2
-    m_Value: {x: 28.584066, y: 39.612732, z: 29.962515}
+    m_Value: {x: 19.777311, y: -0.6139412, z: -2.167821}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11471689, y: -0.5494201, z: 0.076484345, w: 0.8241312}
+    m_Target: {x: 0.3877844, y: -0.28415662, z: 0.12702237, w: 0.8676435}
     speed: 2
-    m_Value: {x: 0.11448323, y: -0.55187225, z: 0.07682568, w: 0.8224527}
+    m_Value: {x: 0.3875815, y: -0.28544897, z: 0.12759998, w: 0.86718965}
   m_Size:
-    m_Target: 104.448204
+    m_Target: 14.811097
     speed: 2
-    m_Value: 99.95043
+    m_Value: 14.173299
   m_Ortho:
     m_Target: 0
     speed: 2
