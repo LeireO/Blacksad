@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 05366783631abf8499de8b2dedf3a17b
+guid: 8de11505170634b4e8c1a226fc237707
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,18 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: pen_black
-    second: {fileID: 2100000, guid: ed0415f30325aaf43b7c865850194ddf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pen_gold
-    second: {fileID: 2100000, guid: 7663da6c62a6e65499a08592be1eefc7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pen_head
-    second: {fileID: 2100000, guid: 011b4004578f2d041ab4eaa49bcd92b5, type: 2}
+      name: glass ashtray
+    second: {fileID: 2100000, guid: 4fa434e06821aa643aaf112b166a1fa9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -50,7 +40,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 8
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -103,7 +93,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.08
+    globalScale: 0.1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
